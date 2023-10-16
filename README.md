@@ -1,6 +1,6 @@
 # Specmobs
 Give special abilities and better equipment to monsters.
-![2023-08-28_12 17 24](https://github.com/HanalinchEve/specmobs/assets/85469964/be6841f9-69f8-43a4-aa44-b9c8060c02af)
+![2023-08-28_12 17 24](https://github.com/HanalinchEve/Specmobs/assets/85469964/8fd1f23d-c871-492e-b6cd-3428a8455f16)
 
 ## Features:
 5% of zombies and skeletons become specmob, accompanied by various special abilities. Killing them will gain more experience and a chance to drop enchantment books.  
@@ -9,34 +9,34 @@ Players killing monsters will increase their difficulty level. The increase in d
 
 ## Some other abilities:
 ###  Creeper:
-    Charged Creeper may spawn during rain.  
+Charged Creeper may spawn during rain.  
 ###  Enderman,Slime,Wither Skeleton:
-    Give player negative effect when combo them.  
+Give player negative effect when combo them.  
 ###  Blaze:
-    20% become Burst Blaze, continuously shoot many fireball and harming themselves.  
+20% become Burst Blaze, continuously shoot many fireball and harming themselves.  
 ###  Wither Skeleton:
-    10% become Wither Wizard and shoot Wither Skull.  
+10% become Wither Wizard and shoot Wither Skull.  
 ###  Ghast:
-    When players are below it, they will drop tears that hurt people.  
+When players are below it, they will drop tears that hurt people.  
 ###  Zombie:
-    10% will rage when health is low.  
-    May spawn with Drowned during rain.  
-    May be double spawn.  
+10% will rage when health is low.  
+May spawn with Drowned during rain.  
+May be double spawn.  
 ###  Spider:
-    Attributes increased.  
-    Shoot webs.  
-    May spawn with Cave Spider when they are underground.  
+Attributes increased.  
+Shoot webs.  
+May spawn with Cave Spider when they are underground.  
 ###  Evoker:
-    Teleport when attacked.  
-    Summon more and faster fangs.  
-    Have two variants: Necromancer and Flame Evoker. (Be careful of fire during raid!)  
+Teleport when attacked.  
+Summon more and faster fangs.  
+Have two variants: Necromancer and Flame Evoker. (Be careful of fire during raid!)  
 ###  Wither:
-    Summon Wither Skeleton.  
-    Summon Wither Skull surrounding itself when its health drops below half.  
+Summon Wither Skeleton.  
+Summon Wither Skull surrounding itself when its health drops below half.  
 ###  Ender Dragon:
-    Shoot multiple dragon fireball.  
-    Summon End Crystal on Dragon Breath.  
-    Provoke Enderman to attack player without carved pumpki nwhen Ender Dragon is attacked.  
+Shoot multiple dragon fireball.  
+Summon End Crystal on Dragon Breath.  
+Provoke Enderman to attack player without carved pumpki nwhen Ender Dragon is attacked.  
 
 ## Configure the Pack:
 Many aspects of this data pack can be configured.  
