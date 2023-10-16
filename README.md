@@ -11,7 +11,7 @@ Players killing monsters will increase their difficulty level. The increase in d
 ###  Creeper:
     Charged Creeper may spawn during rain.  
 ###  Enderman,Slime,Wither Skeleton:
-    give player negative effect when combo them.  
+    Give player negative effect when combo them.  
 ###  Blaze:
     20% become Burst Blaze, continuously shoot many fireball and harming themselves.  
 ###  Wither Skeleton:
