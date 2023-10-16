@@ -44,4 +44,4 @@ You can access a chat based configuration menu while ingame by running the comma
 /function specmobs:help  
 
 ## Other:
-I am not good at English, most of the text is translated by AI. >ω<
+I am not good at English, most of the text is translated by AI. Please take good care of it. >ω<
