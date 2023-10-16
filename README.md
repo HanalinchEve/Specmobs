@@ -1,5 +1,5 @@
 # Specmobs
-Added special abilities to monsters.
+Give special abilities and better equipment to monsters.
 ![2023-08-28_12 17 24](https://github.com/HanalinchEve/specmobs/assets/85469964/be6841f9-69f8-43a4-aa44-b9c8060c02af)
 
 ## Features:
