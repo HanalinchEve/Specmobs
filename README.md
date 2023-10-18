@@ -42,6 +42,7 @@ Provoke Enderman to attack player without carved pumpki nwhen Ender Dragon is at
 Many aspects of this data pack can be configured.  
 You can access a chat based configuration menu while ingame by running the command if you have operator permissions.  
 /function specmobs:help  
+You can also get the spawn egg of special monsters from it  
 
 ## Other:
 I am not good at English, most of the text is translated by AI. Please take good care of it. >ω<  
