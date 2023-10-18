@@ -10,15 +10,18 @@ Players killing monsters will increase their difficulty level. The increase in d
 
 ## Some other abilities:
 ###  Creeper:
-Charged Creeper may spawn during rain.  
+10% become Charged Creeper during rain.  
 ###  Enderman,Slime,Wither Skeleton:
 Give player negative effect when combo them.  
 ###  Blaze:
 20% become Burst Blaze, continuously shoot many fireball and harming themselves.  
 ###  Wither Skeleton:
+Accompany the spawn of Zombified Piglin in the fortress, making it appear more frequently in the fortress.  
 10% become Wither Wizard and shoot Wither Skull.  
 ###  Ghast:
 When players are below it, they will drop tears that hurt people.  
+###  Drowned:
+2.5% will become a specmob, summoning lightning.  
 ###  Zombie:
 10% will rage when health is low.  
 May spawn with Drowned during rain.  
