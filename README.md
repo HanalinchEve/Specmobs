@@ -1,4 +1,5 @@
 # Specmobs
+This is a datapack that adds a bit of difficulty and fun to the game.  
 Give special abilities and better equipment to monsters.
 ![2023-10-19_00 00 38](https://github.com/HanalinchEve/Specmobs/assets/85469964/9d54c41b-96d6-49c6-a724-0c2c4c142670)
 
