@@ -1,6 +1,6 @@
 # Specmobs
 Give special abilities and better equipment to monsters.
-![2023-08-28_12 17 24](https://github.com/HanalinchEve/Specmobs/assets/85469964/95b25725-01cd-470a-8fba-e46264caee78)
+![2023-10-19_00 00 38](https://github.com/HanalinchEve/Specmobs/assets/85469964/9d54c41b-96d6-49c6-a724-0c2c4c142670)
 
 ## Features:
 5% of zombies and skeletons become specmob, accompanied by various special abilities. Killing them will gain more experience and a chance to drop enchantment books.  
