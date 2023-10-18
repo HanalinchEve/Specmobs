@@ -5,7 +5,7 @@ Give special abilities and better equipment to monsters.
 
 ## Features:
 5% of zombies and skeletons become specmob, accompanied by various special abilities. Killing them will gain more experience and a chance to drop enchantment books.  
-Undead will have better equipment and may also carry special offhand weapons(Splash Potion,Ender Pearl,Lava,TNT,Shield,Silverfish,Cobweb).  
+Undead will have better equipment and may also carry special offhand weapons(Splash Potion,Ender Pearl,Lava,Shield,Silverfish,Cobweb,Removable TNT).  
 Players killing monsters will increase their difficulty level. The increase in difficulty will equip zombies and skeletons with better equipment!  
 
 ## Some other abilities:
