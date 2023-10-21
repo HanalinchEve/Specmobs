@@ -6,28 +6,26 @@ Give special abilities and better equipment to monsters.
 ## Features:
 5% of zombies and skeletons become specmob, accompanied by various special abilities. Killing them will gain more experience and a chance to drop enchantment books.  
 Undead will have better equipment and may also carry special offhand weapons(Splash Potion,Ender Pearl,Lava,Shield,Silverfish,Cobweb,Removable TNT).  
-Players killing monsters will increase their difficulty level. The increase in difficulty will equip zombies and skeletons with better equipment and abilities!  
-
-
+Players killing monsters will increase their difficulty level. The increase in difficulty will equip zombies and skeletons with better equipment!
 <details>
 <summary>Specmobs:</summary>
-  Disco: Summon weak and slow baby zombies.  
-  Silverfish: Throw silverfish spawn egg and summon silverfish.  
-  Furnace: Catch fire and rage when its health level is low.  
-  Piston: Throw mob to player and hit play to fly.  
-  Knight(Zombie): Crazy jump attack.  
-  Knight(Skeleton): Shoot tracking arrow and use sword when player close.  
-  Doctor:  Throw potion or use spell to recover health to surrounding monsters.  
-  Firework: Launch firework that release arrow rain.  
-  UAV: Launch dispenser UAV to shoot arrows at player.  
-  Fang: Summon Evoker Fangs.  
-  Shulker: Shoot Shulker Bullet.  
-  Ender: Teleport to player.  
-  Gatling: Shoot consecutive arrows.  
+  Disco: Summon weak and slow baby zombies.<br>
+  Silverfish: Throw silverfish spawn egg and summon silverfish.<br>
+  Furnace: Catch fire and rage when its health level is low.<br>
+  Piston: Throw mob to player and hit play to fly.<br>
+  Knight(Zombie): Crazy jump attack.<br>
+  Knight(Skeleton): Shoot tracking arrow and use sword when player close.<br>
+  Doctor:  Throw potion or use spell to recover health to surrounding monsters.<br>
+  Firework: Launch firework that release arrow rain.<br>
+  UAV: Launch dispenser UAV to shoot arrows at player.<br>
+  Fang: Summon Evoker Fangs.<br>
+  Shulker: Shoot Shulker Bullet.<br>
+  Ender: Teleport to player.<br>
+  Gatling: Shoot consecutive arrows.<br>
 </details>
 
-## Some other abilities:
-###  Creeper:
+## Some other features:  
+###  Creeper:  
 10% become Charged Creeper during rain.  
 ###  Enderman,Slime,Wither Skeleton:
 Give player negative effect when combo them.  
@@ -35,7 +33,7 @@ Give player negative effect when combo them.
 20% become Burst Blaze, continuously shoot many fireball and harming themselves.  
 ###  Wither Skeleton:
 Accompany the spawn of Zombified Piglin in the fortress, making it appear more frequently in the fortress.  
-10% become Wither Wizard and shoot Wither Skull.  
+10% become Wither Wizard and shoot Wither Skull.(1.20.x)  
 ###  Ghast:
 When players are below it, they will drop tears that hurt people.  
 ###  Drowned:
@@ -49,16 +47,17 @@ Attributes increased.
 Shoot webs.  
 May spawn with Cave Spider when they are underground.  
 ###  Evoker:
+Holding Totem of Undying.
 Teleport when attacked.  
 Summon more and faster fangs.  
-Have two variants: Necromancer and Flame Evoker. (Be careful of fire during raid!)  
+2 variants: Necromancer and Flame Evoker(1.20.x). (Be careful of fire during raid!)  
 ###  Wither:
 Summon Wither Skeleton.  
-Summon Wither Skull surrounding itself when its health drops below half.  
+Summon Wither Skull surrounding itself when its health drops below half.(1.20.x)  
 ###  Ender Dragon:
 Shoot multiple dragon fireball.  
 Summon End Crystal on Dragon Breath.  
-Provoke Enderman to attack player without carved pumpki nwhen Ender Dragon is attacked.  
+Provoke Enderman to attack player without carved pumpki nwhen Ender Dragon is attacked. 
 
 ## Configure the Pack:
 Many aspects of this data pack can be configured.  
