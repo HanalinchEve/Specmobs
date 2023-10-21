@@ -6,7 +6,25 @@ Give special abilities and better equipment to monsters.
 ## Features:
 5% of zombies and skeletons become specmob, accompanied by various special abilities. Killing them will gain more experience and a chance to drop enchantment books.  
 Undead will have better equipment and may also carry special offhand weapons(Splash Potion,Ender Pearl,Lava,Shield,Silverfish,Cobweb,Removable TNT).  
-Players killing monsters will increase their difficulty level. The increase in difficulty will equip zombies and skeletons with better equipment!  
+Players killing monsters will increase their difficulty level. The increase in difficulty will equip zombies and skeletons with better equipment and abilities!  
+
+
+<details>
+<summary>Specmobs:</summary>
+  Disco: Summon weak and slow baby zombies.  
+  Silverfish: Throw silverfish spawn egg and summon silverfish.  
+  Furnace: Catch fire and rage when its health level is low.  
+  Piston: Throw mob to player and hit play to fly.  
+  Knight(Zombie): Crazy jump attack.  
+  Knight(Skeleton): Shoot tracking arrow and use sword when player close.  
+  Doctor:  Throw potion or use spell to recover health to surrounding monsters.  
+  Firework: Launch firework that release arrow rain.  
+  UAV: Launch dispenser UAV to shoot arrows at player.  
+  Fang: Summon Evoker Fangs.  
+  Shulker: Shoot Shulker Bullet.  
+  Ender: Teleport to player.  
+  Gatling: Shoot consecutive arrows.  
+</details>
 
 ## Some other abilities:
 ###  Creeper:
